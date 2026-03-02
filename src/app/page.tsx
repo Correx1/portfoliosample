@@ -14,7 +14,6 @@ export default function HomePage() {
       <Skills />
       <Experience />
       <Projects />
-      
       <Testimonials />
       <Contact />
     </>
